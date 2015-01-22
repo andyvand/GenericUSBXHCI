@@ -1,0 +1,1 @@
+ const unsigned char GenericUSBXHCIVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:GenericUSBXHCI  PROJECT:GenericUSBXHCI-1.2.8d9" "\n"; const double GenericUSBXHCIVersionNumber __attribute__ ((used)) = (double)1.2;
